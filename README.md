@@ -1,4 +1,4 @@
-## MyResume
+# MyResume
 ### SwiftUI 練習
 
 <details>
@@ -14,6 +14,11 @@
    
    
 </details>
+
+## Features
+ - Swift UI
+
+## View
 
 <p>
   <img src="https://github.com/wayne90040/MyResume/blob/master/MyResume.gif" width='20%' height='20%'/>
